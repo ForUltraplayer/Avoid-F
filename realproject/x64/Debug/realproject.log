@@ -1,0 +1,8 @@
+﻿  gamestart.c
+C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\realproject\a.h(1,1): warning C4828: 파일에 0x7c7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\realproject\gamestart.c(31,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\realproject\gamestart.c(132,29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\realproject\gamestart.c(143,37): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\realproject\gamestart.c(172,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\realproject\gamestart.c(174,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  realproject.vcxproj -> C:\Users\Mnyang\Desktop\영남이공대학교\C언어 기말프로젝트 최종본\x64\Debug\realproject.exe
