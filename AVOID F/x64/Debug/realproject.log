@@ -1,0 +1,18 @@
+﻿  frontMenu.c
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\frontMenu.c(28,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\frontMenu.c(30,23): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  gameboard.c
+  gamestart.c
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\gamestart.c(23,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\gamestart.c(66,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\gamestart.c(68,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\gamestart.c(7,17): warning C4101: 'letter' :참조되지 않은 지역 변수입니다.
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\gamestart.c(8,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  gotoxy.c
+  levelselectMenu.c
+  main.c
+C:\Users\Mnyang\Desktop\realproject - 복사본\realproject\main.c(18,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mainMenu.c
+  textcolor.c
+  코드를 생성하고 있습니다...
+  realproject.vcxproj -> C:\Users\Mnyang\Desktop\realproject - 복사본\x64\Debug\realproject.exe
